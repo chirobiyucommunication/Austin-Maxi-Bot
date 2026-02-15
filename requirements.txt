@@ -1,0 +1,8 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+python-telegram-bot==20.3
+requests==2.31.0
+playwright==1.40.0
+python-dotenv==1.0.0
+pytz==2023.3.post1
+gunicorn==21.2.0

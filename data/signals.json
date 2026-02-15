@@ -1,0 +1,77 @@
+{
+  "signals": [
+    {
+      "id": "2026-02-14T16:08:34.260210",
+      "pair": "EURUSD",
+      "direction": "BUY",
+      "timeframe": "1M",
+      "strength": "STRONG",
+      "entry_price": null,
+      "stop_loss": null,
+      "take_profit": null,
+      "source": "Manual",
+      "timestamp": "2026-02-14T16:08:34.260210"
+    },
+    {
+      "id": "2026-02-14T17:45:04.073938",
+      "pair": "EURUSD",
+      "direction": "BUY",
+      "timeframe": "1M",
+      "strength": "STRONG",
+      "entry_price": 1.085,
+      "stop_loss": 1.084,
+      "take_profit": 1.087,
+      "source": "AdminTest",
+      "timestamp": "2026-02-14T17:45:04.073938"
+    },
+    {
+      "id": "2026-02-14T17:57:16.510610",
+      "pair": "EURUSD",
+      "direction": "BUY",
+      "timeframe": "1M",
+      "strength": "STRONG",
+      "entry_price": 1.085,
+      "stop_loss": 1.084,
+      "take_profit": 1.087,
+      "source": "AdminTest",
+      "timestamp": "2026-02-14T17:57:16.510610"
+    },
+    {
+      "id": "2026-02-14T17:58:02.852209",
+      "pair": "EURUSD",
+      "direction": "BUY",
+      "timeframe": "1M",
+      "strength": "STRONG",
+      "entry_price": 1.085,
+      "stop_loss": 1.084,
+      "take_profit": 1.087,
+      "source": "AdminTest",
+      "timestamp": "2026-02-14T17:58:02.852209"
+    },
+    {
+      "id": "2026-02-14T17:58:37.621822",
+      "pair": "EURUSD",
+      "direction": "BUY",
+      "timeframe": "1M",
+      "strength": "STRONG",
+      "entry_price": 1.085,
+      "stop_loss": 1.084,
+      "take_profit": 1.087,
+      "source": "AdminTest",
+      "timestamp": "2026-02-14T17:58:37.621822"
+    }
+  ],
+  "last_signal": {
+    "id": "2026-02-14T17:58:37.621822",
+    "pair": "EURUSD",
+    "direction": "BUY",
+    "timeframe": "1M",
+    "strength": "STRONG",
+    "entry_price": 1.085,
+    "stop_loss": 1.084,
+    "take_profit": 1.087,
+    "source": "AdminTest",
+    "timestamp": "2026-02-14T17:58:37.621822"
+  },
+  "last_updated": "2026-02-14T17:58:37.622820"
+}
